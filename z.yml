@@ -1,0 +1,14 @@
+---
+description: Add support for Esp32 EthernetKit 
+fullname: board.zerynth.esp32_ethernetkit
+info:
+    board: Esp32 EthernetKit
+    chip_manufacturer: Espressif
+    device: esp32
+    family_type: Xtensa lx6
+keywords:
+- espressif
+- esp32
+- board
+title: Esp32 EthernetKit Support Package
+...
